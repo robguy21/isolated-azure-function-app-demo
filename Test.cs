@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Net;
 using System.Threading.Tasks;
 using Azure.Core;
-using IsolateAzureFunctionApp.Services;
+using IsolatedAzureFunctionAppDemo.Services;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Http;
 using Microsoft.Extensions.Logging;
 
-namespace IsolateAzureFunctionApp
+namespace IsolatedAzureFunctionAppDemo
 {
     public class DataPostBody
     {

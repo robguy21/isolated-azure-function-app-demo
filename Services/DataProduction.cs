@@ -1,4 +1,4 @@
-namespace IsolateAzureFunctionApp.Services
+namespace IsolatedAzureFunctionAppDemo.Services
 {
     public class DataProduction : IData
     {

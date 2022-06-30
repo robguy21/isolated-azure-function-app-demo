@@ -1,5 +1,5 @@
 using System;
-using IsolateAzureFunctionApp.Services;
+using IsolatedAzureFunctionAppDemo.Services;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
